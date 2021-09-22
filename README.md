@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently studying in Ajou University, E-Business Major
 - 🌱 I’m currently learning Back End - with Nodejs
 - ⚡ I've studied R-programming and written few reports about Baseball Statistics with R
+- 📫 How to reach me: seojune408@gmail.com
 
 ### Languages and Tools:
 
