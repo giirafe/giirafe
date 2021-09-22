@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm June Seo
 
 <!--
 **giirafe/giirafe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently studying in Ajou University, E-Business Major
+- 🌱 I’m currently learning Back End - with Nodejs
+- ⚡ I've studied R-programming and written few reports about Baseball Statistics with R
+
+### Languages and Tools:
+
+[<img align="left" alt="RStudio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/rstudio.svg" />]
+[rstudio]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/r.svg" />]
+[R]
+[<img align="left" alt="HTML5" width="26px" src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FDGM2Y%2FbtqwIi3c40a%2FtbVlnqOBH5ovawaVBCmEF0%2Fimg.png" />]
+[Node.Js]
+
