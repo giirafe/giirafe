@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 
 <img align="left" alt="HTML5" width="26px" src="https://ww.namu.la/s/d59b18ca16c075c57c5ebe902e14d46c58e2df1d638605017382993a696c0c8c2313077356a2bd90892fa9e00c704b6832c07c8981482d4d3b88ccb2848da73142a440a665710e13ce579236ead5ce33" />
 
-<img align="left" alt="HTML5" width="26px" src="[https://ww.namu.la/s/d59b18ca16c075c57c5ebe902e14d46c58e2df1d638605017382993a696c0c8c2313077356a2bd90892fa9e00c704b6832c07c8981482d4d3b88ccb2848da73142a440a665710e13ce579236ead5ce33](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsolidity-kr.readthedocs.io%2F&psig=AOvVaw1H2ZLLTujNoPguyme-Scxe&ust=1676708068836000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOjYvriOnP0CFQAAAAAdAAAAABAE)" />
+<img align="left" alt="HTML5" width="26px" src="https://solidity-kr.readthedocs.io/ko/latest/_images/logo.svg" />
 
 
