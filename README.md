@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently studying Data Analytics & Business Administration
-- 🌱 I’m currently learning Back End - with Nodejs
-- ⚡ I've studied R-programming and written few reports about Baseball Statistics with R
+- 🔭 I’m currently studying Back End - with Node.js & Blockchain Smart Contract - with Solidity
+- ⚡ I've studied R-programming and written few reports about Baseball Statistics with R, 
 - 📫 How to reach me: seojune408@gmail.com
 
 ### Languages and Tools:
