@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently studying Back End - with Node.js & Blockchain Smart Contract - with Solidity
-- ⚡ I've studied R-programming and written few reports about Baseball Statistics with R, 
+- ⚡ I've studied R-programming and written few reports about Baseball Statistics with R,
+- ⚡ I've developed Backend for "Canary: Military security alert system for everyone" with Node.js 
+- ⚡ I've developed Backend and written Smart Contract for "BloodChain - Blockchain based Electronic blood donation Platform" with Node.js and Solidity
 - 📫 How to reach me: seojune408@gmail.com
 
 ### Languages and Tools:
