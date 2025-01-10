@@ -37,7 +37,7 @@ Git/Github Confluence
 
 CPLabs 동계 인턴 프로젝트 [2023.12 - 2024.02]
 
-- 탈중앙화 금융 플랫폼 WemixFi의 사내 Test용 API서버
+- 탈중앙화 금융 플랫폼 WemixFi의 스테이징 이 사내용 Test API서버
 - 가상자산 예치(Staking)/담보대출/스왑 기능 제공
 - API 서버 사용 및 로그데이터 축적 DB 구축
 - 사용자 및 인수 인계를 위한 API문서 생성 
@@ -70,8 +70,10 @@ SKKU 소프트웨어학과 2023 산학협력프로젝트 [2023.06 - 2023.08]
 ### [PLOW : 블록체인 기반 전자 헌혈 플랫폼 ](https://github.com/giirafe/paran_bloodchain)
 
 <img src="https://img.shields.io/badge/-Solidity-363636?logo=Solidity&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
- 
+
 아주대학교 2022 파란학기제 [2022.09 - 2022.12]
+
+ [온라인 헌혈증서·휴대용 번호판 인식기…도전하는 대학생들](https://news.kbs.co.kr/news/pc/view/view.do?ncd=5626344)
 - 전자헌혈증 생성 및 기부, 기록관리를 하는 스마트 컨트랙트 생성 및 배포
 - 서버를 통한 스마트 컨트랙트 상호 작용 및 커뮤니티 기능 개발
 
