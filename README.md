@@ -37,7 +37,7 @@ Git/Github Confluence
 
 CPLabs 동계 인턴 프로젝트 [2023.12 - 2024.02]
 
-- 탈중앙화 금융 플랫폼 WemixFi의 스테이징 이 사내용 Test API서버
+- 가상자산 금융 플랫폼 WemixFi의 스테이징 사내용 Test API서버
 - 가상자산 예치(Staking)/담보대출/스왑 기능 제공
 - API 서버 사용 및 로그데이터 축적 DB 구축
 - 사용자 및 인수 인계를 위한 API문서 생성 
